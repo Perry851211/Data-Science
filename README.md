@@ -3,7 +3,6 @@
 # Self introduction
 Name：蔡承恩
 Student ID：B04705008
-Major：資管
 
 # 學習歷程
 ## week1 2/21 Introduction
