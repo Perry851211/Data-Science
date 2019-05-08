@@ -2,11 +2,13 @@
 
 # Self introduction
 Name：蔡承恩
+
 Student ID：B04705008
 
 # 學習歷程
 ## week1 2/21 Introduction
 註冊Github
+
 修改助教code
 
 ## week2 2/28 no class
@@ -23,11 +25,15 @@ Student ID：B04705008
 
 ## week8 4/11
 -作業1-3分享
+
 -機器學習
 ## week9~11
 -資料科學中的基礎統計
+
 -NER 原理介紹
+
 -學長分享
+
 HW1-6.html
 
 
